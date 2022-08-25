@@ -11,6 +11,8 @@ namespace ConsoleApp99
             return a + b;
         }
         public static void Main()
-        { }
+        {
+            Console.WriteLine("Hi All");
+        }
     }
 }
